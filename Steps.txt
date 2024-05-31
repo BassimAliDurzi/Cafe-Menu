@@ -118,4 +118,10 @@ If you make the width of the page preview smaller, you will notice at some point
 
 Since you know the prices on the right have significantly fewer characters, change the flavor class width value to be 75% and the price class width value to be 25%.
 
+Step 46
+You will come back to styling the menu in a few steps, but for now, go ahead and add a second section element below the first for displaying the desserts offered by the cafe.
+
+Step 47
+Add an h2 element in the new section and give it the text Desserts.
+
 
